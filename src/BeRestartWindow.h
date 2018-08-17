@@ -20,6 +20,7 @@
 
 #include <Message.h>
 #include <Application.h>
+#include <StatusBar.h>
 #include <Window.h>
 #include "BeRestartMenuBar.h"
 #include "BeRestartShutdownWindow.h"
